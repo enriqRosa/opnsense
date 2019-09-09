@@ -1,0 +1,14 @@
+{
+    "product_abi": "19.7",
+    "product_arch": "amd64",
+    "product_copyright_owner": "Deciso B.V.",
+    "product_copyright_url": "https://www.deciso.com/",
+    "product_copyright_years": "2014-2019",
+    "product_email": "project@opnsense.org",
+    "product_flavour": "OpenSSL",
+    "product_hash": "8d2a2cef9",
+    "product_id": "opnsense",
+    "product_name": "OPNsense",
+    "product_version": "19.7",
+    "product_website": "https://opnsense.org/"
+}
